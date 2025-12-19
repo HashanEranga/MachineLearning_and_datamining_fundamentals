@@ -1,2 +1,5 @@
 venv
 .idea
+.venv_wsl
+.claude
+.venv
