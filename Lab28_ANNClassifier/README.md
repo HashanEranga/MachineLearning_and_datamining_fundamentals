@@ -19,7 +19,7 @@ This is a Streamlit web application for predicting customer churn using an Artif
 
 1. Navigate to the project directory:
 ```bash
-cd Lab28_ANNImpl
+cd Lab28_ANNClassifier
 ```
 
 2. Install required packages:
